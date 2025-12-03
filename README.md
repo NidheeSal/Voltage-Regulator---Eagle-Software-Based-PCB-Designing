@@ -41,7 +41,6 @@ The LM7812 is an integrated circuit widely used in 12V voltage regulator circuit
 - **General Rule**: Use the lowest possible input voltage to minimize power loss and maximize output current.
 
 ## PCB Layouts
-Designed in Eagle software.
 ![PCB Layout](PCB-layout.png)
 
 ### Top Layout
