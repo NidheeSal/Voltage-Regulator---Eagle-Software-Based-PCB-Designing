@@ -67,7 +67,7 @@ The LM7812 voltage regulator IC does not require additional components to balanc
 Stable 12V DC output achieved using IC7812.
 
 ## See my video here
-[Watch the full PCB design & build](https://your-video-link-here.com)
+[Watch the full PCB design & build](PCB_design_video.mp4)
 
 ## License
 MIT License - Feel free to use and modify.
