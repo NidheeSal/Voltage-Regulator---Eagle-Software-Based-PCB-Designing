@@ -6,7 +6,7 @@ This repository contains the design files and documentation for a 12V DC voltage
 ### Schematic
 The circuit uses the LM7812 voltage regulator IC with input and output capacitors for filtering.
 
-![Schematic Diagram](7812-Basic-Circuit.jpg)
+![Schematic Diagram](7812_Schematic_diagram.png)
 
 ### Pin Diagram
 LM7812:
