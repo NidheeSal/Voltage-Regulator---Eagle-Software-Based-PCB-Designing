@@ -42,16 +42,16 @@ The LM7812 is an integrated circuit widely used in 12V voltage regulator circuit
 
 ## PCB Layouts
 Designed in Eagle software.
-![PCB Layout](images/PCB-layout.png)
+![PCB Layout](PCB-layout.png)
 
 ### Top Layout
-![Top Layout](images/top-layout.png) 
+![Top Layout](top-layout.png) 
 
 ### Bottom Layout
-![Bottom Layout](images/bottom-layout.png) 
+![Bottom Layout](bottom-layout.png) 
 
 ### Construction Board Layout
-![Construction Board Layout](images/construction-board.png) 
+![Construction Board Layout](construction-board.png) 
 
 ## Conclusion
 The LM7812 voltage regulator IC does not require additional components to balance or saturate its output voltage. It has built-in protection against high current, includes a heatsink connected to the common ground, prevents overheating and short-circuits, and provides a constant 12V DC voltage.
