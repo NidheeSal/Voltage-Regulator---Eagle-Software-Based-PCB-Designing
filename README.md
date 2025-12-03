@@ -43,13 +43,13 @@ The LM7812 is an integrated circuit widely used in 12V voltage regulator circuit
 ## Designed in Eagle software.
 ![](PCB-layout.png)
 
-### Top Layout
+
 ![](top-layout.png) 
 
-### Bottom Layout
+
 ![](bottom-layout.png) 
 
-### Construction Board Layout
+
 ![](construction-board.png) 
 
 ## Conclusion
@@ -66,17 +66,8 @@ The LM7812 voltage regulator IC does not require additional components to balanc
 ## Result
 Stable 12V DC output achieved using IC7812.
 
-## Files in This Repo
-- `docs/EL_15_Workshop_practical.pdf`: Original workshop report.
-- `eagle/`: Schematic (.sch) and board (.brd) files (add if available).
-- `gerbers/`: Manufacturing files (export from Eagle).
-- `images/`: Diagrams and layouts.
-
-## How to Replicate
-1. Open the .sch file in Eagle to view/edit the schematic.
-2. Switch to board view (.brd) for layout.
-3. Export Gerbers for PCB fabrication (e.g., via JLCPCB or PCBWay).
-4. Assemble components as per the layout.
+## See my video here
+[Watch the full PCB design & build](https://your-video-link-here.com)
 
 ## License
 MIT License - Feel free to use and modify.
